@@ -42,6 +42,7 @@
 - [Rattanan Runguthai](https://github.com/NoMoneyDev)
 - [MMarbs2](https://github.com/MMarble2)
 - [samadpls](https://github.com/samadpls)
+Samyak Bhargava(https://github.com/sammybh6)
 - [Conner Cook](https://github.com/conner-c)
 - [The Aaryan](https://github.com/the-aaryan)
 - [Max Bromet] (https://github.com/mbromet)
